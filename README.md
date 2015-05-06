@@ -10,9 +10,11 @@ This is a re-packaging of the thirteen benchark datasets from Gunnar Raetsch's w
 
 ## Downloads:
 
-For Matlab V7 (about 8Mb) [https://github.com/tdiethe/gunnar_raetsch_benchmark_datasets/blob/master/benchmarks.mat](benchmarks.mat)
+For Matlab V7 (about 8Mb) 
+[benchmarks.mat](../blob/master/benchmarks.mat)
 
-For Matlab V6 (about 17Mb) [https://github.com/tdiethe/gunnar_raetsch_benchmark_datasets/blob/master/benchmarks_v6.mat](benchmarks_v6.mat)
+For Matlab V6 (about 17Mb) 
+[benchmarks.mat](../blob/master/benchmarks_v6.mat)
 
 
 ## References:
