@@ -27,4 +27,4 @@ For Matlab V6 (about 17Mb)
 
 [4]   Diethe, T. "13 benchmark datasets derived from the UCI, DELVE and STATLOG repositories". https://github.com/tdiethe/gunnar_raetsch_benchmark_datasets/, 2015.
 
-This was cloned from http://theoval.cmp.uea.ac.uk/~gcc/matlab/default.html#benchmarks  
+This was adapted from http://theoval.cmp.uea.ac.uk/~gcc/matlab/default.html#benchmarks  
