@@ -8,15 +8,19 @@ This is a re-packaging of the thirteen benchark datasets from Gunnar Raetsch's w
       >> x_test  = banana.x(banana.test(42,:),:);
       >> t_test  = banana.t(banana.test(42,:));
 
-Downloads:
+## Downloads:
 
 For Matlab V7 (about 8Mb) (benchmarks.mat)
+
 For Matlab V6 (about 17Mb) (benchmarks_v6.mat)
 
-References:
+
+## References:
 
 [1]	G. Raetsch, T. Onoda and K.-R. Muller, "Soft margins for AdaBoost", Machine Learning, vol. 43, no. 3, pp 287-320, March 2001.
+
 [2]	S. Mika, G. Raetsch, J. Weston, B. Scholkopf and K.-R. Muller, "Fisher discriminant analysis with kernels", in Neural Networks for Signal Processing IX, pp 41-48, 1999.
+
 [3]	Cawley, G. C. and Talbot, N. L. C., "Efficient leave-one-out cross-validation of kernel Fisher discriminant classifiers", Pattern Recognition, vol. 36, pp 2585-2592, 2003.
 
 This was cloned from http://theoval.cmp.uea.ac.uk/~gcc/matlab/default.html#benchmarks  
