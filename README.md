@@ -28,3 +28,20 @@ For Matlab V6 (about 17Mb)
 [4]   Diethe, T. "13 benchmark datasets derived from the UCI, DELVE and STATLOG repositories". https://github.com/tdiethe/gunnar_raetsch_benchmark_datasets/, 2015.
 
 This was adapted from http://theoval.cmp.uea.ac.uk/~gcc/matlab/default.html#benchmarks  
+
+DOI: http://dx.doi.org/10.5281/zenodo.18110
+
+How to cite this:
+
+
+
+@misc{Diethe15,
+	Author = {Diethe, T.},
+	Date-Added = {2015-05-06 14:18:52 +0000},
+	Date-Modified = {2015-05-28 14:17:57 +0000},
+	Doi = {DOI: http://dx.doi.org/10.5281/zenodo.18110},
+	Howpublished = {\url{https://github.com/tdiethe/gunnar\_raetsch\_benchmark\_datasets/}},
+	Keywords = {dataset},
+	Title = {{13 benchmark datasets derived from the UCI, DELVE and STATLOG repositories}},
+	Year = {2015}}
+
